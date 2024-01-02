@@ -1,4 +1,4 @@
-<div align=center><h1>:🌐: Tech Stack </h1></div>
+<div align=center><h1>🌐 Tech Stack </h1></div>
 <div align=center><h3>Allright 24</h3></div>
 <div align=center>
 
