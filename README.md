@@ -9,6 +9,9 @@
   
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)
+출처: https://eunhee-programming.tistory.com/244
+
 <br><br><br>
 
 <div align=center><h1>:smile: SNS :smile:</h1></div>
