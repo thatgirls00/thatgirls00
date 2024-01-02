@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)
 </div>
 
 <div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgirls00layout=compact&theme=dark)</div>
