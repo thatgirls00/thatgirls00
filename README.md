@@ -1,4 +1,4 @@
-# 🌐 JEON HYUN SOO
+<div align=center># 🌐 JEON HYUN SOO</div>
 
 <div align=center><h1>🌐 Tech Stack </h1></div>
 
