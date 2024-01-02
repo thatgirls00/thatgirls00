@@ -20,7 +20,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgirls00&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgirls00&layout=compact&theme=dark)
 
 <div align=center>
 
