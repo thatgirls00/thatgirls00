@@ -1,6 +1,12 @@
-<div align=center><h1>:book: Tech Stack :book:</h1></div>
+<div align=center><h1>:🌐: Tech Stack </h1></div>
 <div align=center><h3>Allright 24</h3></div>
 <div align=center>
+
+<div align=center><h1>:book: Tech Stack ::</h1></div>
+
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
