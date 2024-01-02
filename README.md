@@ -18,11 +18,13 @@
   
 </div>
 
-<div align=center>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgirls00&layout=compact&theme=dark)
+
+<div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsgustn201)](https://solved.ac/wjsgustn201/)
 
