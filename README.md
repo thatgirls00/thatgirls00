@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=HYUNSOO%20JEON&desc=&fontAlign=20&descSize=30&descAlignY=90&descAlign=16&fontColor=6666FF)
 <div align=center><h1>🌐 JEON HYUN SOO </h1></div>
 
 <div align=center>
