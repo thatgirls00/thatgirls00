@@ -1,6 +1,14 @@
 
 <div align=center><h1>🌐 JEON HYUN SOO </h1></div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgirls00&layout=compact&theme=dark)
+
+<div align=center>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsgustn201)](https://solved.ac/wjsgustn201/)
+
+<hr>
+
 <div align=center><h1>🌐 Tech Stack & Development Tool</h1></div>
 
 <div align=center>
@@ -16,16 +24,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 </div>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgirls00&layout=compact&theme=dark)
-
-<div align=center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjsgustn201)](https://solved.ac/wjsgustn201/)
-
-<hr>
 
 
 <div align=center>
