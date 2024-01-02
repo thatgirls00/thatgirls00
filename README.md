@@ -30,7 +30,7 @@
 
 <br><br><br>
 
-<div align=center><h1> SNS </h3></div>
+
 <div align=center>
 
 # :mailbox_with_mail: Contacts
