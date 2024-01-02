@@ -9,7 +9,10 @@
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)
+<div align="center"></div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatgirls00&show_icons=true&theme=dark)<div align="center"></div>
+
+<div align="center"></div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatgirls00layout=compact&theme=dark)<div align="center"></div>
+
 
 <br><br><br>
 
