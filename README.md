@@ -35,6 +35,8 @@
 <a href="https://www.instagram.com/thatgirls00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjsgustn201@gmail.com)](mailto:wjsgustn201@gmail.com)
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://firstprep.tistory.com/)
+<a href="https://firstprep.tistory.com/">
+  <img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=tistory&logoColor=ffffff">
 
 </div>
 
