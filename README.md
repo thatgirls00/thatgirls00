@@ -1,4 +1,4 @@
-<div align=center><h1>🌐 JEON HYUN SOO </h1></div>
+![header](https://capsule-render.vercel.app/api?type=$waving&color=auto&height=$200&section=header&text=$🌐 JEON HYUN SOO&fontSize=$80&animation=$fadeIn)
 
 <div align=center>
 
