@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JEONHYUNSOO&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JEON HYUN SOO&fontSize=60&animation=twinkling)
 
 <div align=center>
 
