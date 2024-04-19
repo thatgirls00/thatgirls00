@@ -22,7 +22,7 @@
 ### 🛠 Tools
 ![Intellij](https://img.shields.io/badge/Intellij&nbsp;IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-<img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-181717.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>  
+<img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>  
 
 </div>
 
