@@ -31,10 +31,10 @@
 # 🌐 Contacts
 <div align=center>
 <a href="mailto:wjsgustn201@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 <a href="https://firstprep.tistory.com/">
-  <img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=tistory&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=tistory&logoColor=ffffff">
 </a>
 
 </div>
