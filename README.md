@@ -16,7 +16,7 @@
   
 ### 🛠 Platforms & Languages
   <img alt="Python" src ="https://img.shields.io/badge/Python-000000.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">
 
 ### 🛠 Tools
